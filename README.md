@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/RieHDsQhD6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://cdn.discordapp.com/attachments/813670122186080329/839229722885881856/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
